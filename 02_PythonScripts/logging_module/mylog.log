@@ -1,0 +1,10 @@
+2018-11-13 16:08:28,239 ERROR    Administrator I'm error   
+2018-11-13 16:08:28,240 CRITICAL Administrator I'm critical
+2018-11-13 17:03:13,217 ERROR    Administrator I'm error   
+2018-11-13 17:03:13,217 CRITICAL Administrator I'm critical
+2018-11-13 17:03:22,791 ERROR    Administrator I am error message
+2018-11-13 17:03:22,792 CRITICAL Administrator I am critical message
+2018-11-13 17:03:45,588 ERROR    Administrator I am error message
+2018-11-13 17:03:45,588 CRITICAL Administrator I am critical message
+2018-11-13 17:04:46,424 ERROR    Administrator I am error message
+2018-11-13 17:04:46,424 CRITICAL Administrator I am critical message

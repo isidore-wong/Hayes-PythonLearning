@@ -1,0 +1,4 @@
+2018-11-13 15:11:12,890 INFO     root       info message
+2018-11-13 15:11:12,891 WARNING  root       warning message
+2018-11-13 15:11:12,891 ERROR    root       error message
+2018-11-13 15:11:12,891 CRITICAL root       critical message
